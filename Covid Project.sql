@@ -15,7 +15,7 @@ where location like '%states%'
 order by location, date 
 
 -- Looking at total cases vs population
--- shows what percentage of population gor covid
+-- shows what percentage of population got covid
 select location, date,population, total_cases, cast((total_cases/population)*100 as decimal(38,2)) as PercentPopulationInfected
 from CovidDeaths
 --where location like 'India'

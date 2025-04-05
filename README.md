@@ -52,5 +52,5 @@ Two datasets—`CovidDeaths` and `CovidVaccinations`—were used in combination.
 - Some countries reported infection rates exceeding 15% of their population.  
 - Nations like the U.S. and Brazil had the highest total deaths.  
 - Global death rates were under 3% for most of the pandemic period.  
-- Rolling vaccination analysis showed a clear trend of vaccine distribution across 2021–2022.
+- Rolling vaccination analysis showed a clear trend of vaccine distribution.
 
